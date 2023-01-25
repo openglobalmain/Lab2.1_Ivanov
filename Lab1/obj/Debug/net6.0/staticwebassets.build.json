@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/f/oWYeuaQg1jZOCurJs4OBLRs6wecC652cmjFmPYYE=",
+  "Source": "Lab1",
+  "BasePath": "_content/Lab1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab1/wwwroot",
+      "Source": "Lab1",
+      "ContentRoot": "/Users/Danny/Documents/Lab_Web_11-main 2/Laba_11/Lab1/wwwroot/",
+      "BasePath": "_content/Lab1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Danny/Documents/Lab_Web_11-main 2/Laba_11/Lab1/wwwroot/css/main.css",
+      "SourceId": "Lab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Danny/Documents/Lab_Web_11-main 2/Laba_11/Lab1/wwwroot/",
+      "BasePath": "_content/Lab1",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.css"
+    }
+  ]
+}
